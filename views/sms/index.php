@@ -83,9 +83,9 @@
 
   <header class="main-header">
       <nav class="navbar navbar-static-top" style="background-color:#2E8B57;">
-        <div class="container">
+		<div class="container">
           <div class="navbar-header">
-              <a href="" class="navbar-brand"><b style="color:white">NONESCOST - DMMS </b></a>
+              <a href="../../" class="navbar-brand" style="margin-top: -1rem;"><img src="../../images/dmms-sm.png" height="40px" > </a>
               <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse">
               <i class="fa fa-bars"></i>
             </button>
@@ -94,7 +94,8 @@
           <!-- Collect the nav links, forms, and other content for toggling -->
           <div class="collapse navbar-collapse pull-left" id="navbar-collapse">
             <ul class="nav navbar-nav">
-                  <li><a href=""><i class="fa fa-user"></i> Attendance</a></li>
+                  <li><a href="../login/"><i class="fa fa-sign-in"></i> Login</a></li>
+                  <li><a href="../sms/"><i class="fa fa-history"></i> Attendance</a></li>
                   <li><a href="../sms logs/"><i class="fa fa-history"></i> Logs</a></li>
             </ul>
           </div>
