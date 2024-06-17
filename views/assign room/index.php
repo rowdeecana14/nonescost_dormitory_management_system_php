@@ -132,7 +132,7 @@
                                             <div class="col-md-12 col-sm-12 col-xs-12">
                                                 
                                                 <br>
-                                                <label class="col-md-12 col-sm-12 col-xs-12 form-group">Borrower: </label>
+                                                <label class="col-md-12 col-sm-12 col-xs-12 form-group">Tenant: </label>
                                                 <div class="col-md-12 col-sm-12 col-xs-12 form-group">
                                                     <select class="form-control select2 has-feedback-left" required="" name="tenant_id" id="tenant_id" style="background-color:#e2e2e2; width:100%">
                                                         <?php echo renderTenantCat(); ?>
